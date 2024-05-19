@@ -41,4 +41,67 @@
   background-color: $color-sistema-j
 
 .cajon.fondo-color-sistema-j:before
+  background-color: $color-primario
+
+.num-blur
+  display: flex
+  align-items: center
+  cursor: pointer
+  &__num
     background-color: $color-primario
+    width: 40px
+    height: 40px
+    flex-shrink: 0
+    border-radius: 50%
+    position: relative
+    div
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%,-50%)
+  &__text
+    margin-left: 10px
+    line-height: 1.2em
+    filter: blur(5px)
+    transition: filter 0.3s ease-in-out
+
+  &:hover
+    .num-blur__text
+      filter: blur(0px)
+
+.img-infografica__item
+  width: 4.5%
+.img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after
+  background-color: #F15A24
+
+i.fa-check
+  color: #22577A
+
+.lista-personalizada-1
+  li
+    display: flex
+    margin-bottom: 10px
+
+.custom-gradient
+  background: rgb(34,87,122)
+  background: linear-gradient(90deg, rgba(34,87,122,1) 0%, rgba(87,204,153,1) 100%)
+
+.custom-gradient h3, .custom-gradient p
+  color: #fff
+
+.parrafo-tema-5
+  img
+    width: 49%
+    margin: 2% 0 2% 2%
+    float: right
+
+.tabs-a.color-acento-contenido .tabs-a__tab:hover, .tabs-a.color-acento-contenido .tabs-a__tab:active, .tabs-a.color-acento-contenido .tabs-a__tab:focus, .tabs-a.color-acento-contenido .tabs-a__tab__selected, .tabs-a.color-acento-contenido .tabs-a__tab__selected:before
+  background-color: #22577A !important
+  color: #fff
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.tarjeta.color-acento-contenido--borde
+  background-color: #EBFCEF !important
+  border: 0 !important
+  min-height: 295px
