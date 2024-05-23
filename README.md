@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Diseño y herramientas para la construcción de contenido digital**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_22810017_CONSTRUCCION_CONTENIDO_DIGITAL/#/](https://ecored-sena.github.io/CF2_22810017_CONSTRUCCION_CONTENIDO_DIGITAL/#/)
 
 #
 
