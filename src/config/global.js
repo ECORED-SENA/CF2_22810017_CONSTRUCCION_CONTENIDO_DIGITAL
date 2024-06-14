@@ -194,7 +194,7 @@ export default {
         'Es un contenedor para distribuir ficheros de audio codificados en formato AAC o ALAC protegidos mediante DRM.',
     },
     {
-      termino: 'Mapa de Bits (Bitmaps)',
+      termino: 'Mapa de Bits (<em>Bitmaps</em>)',
       significado:
         'Hace referencia a una imagen que está constituida por pixeles que tienen información de color. Los formatos de imagen para mapa de bits son: PNG, JPEG y GIF. El programa más usado para editar estas imágenes es Photoshop.',
     },
@@ -206,7 +206,7 @@ export default {
     {
       termino: 'Pixel',
       significado:
-        'Elemento más pequeño de la imagen de un monitor. El término proviene de dos palabras inglesas: picture y element.',
+        'Elemento más pequeño de la imagen de un monitor. El término proviene de dos palabras inglesas: <em>picture</em> y <em>element</em>.',
     },
     {
       termino: 'Pódcast',
@@ -224,7 +224,7 @@ export default {
         'Rojo, verde y azul. Colores primarios de la mezcla aditiva de colores. RGB designa el método que se emplea en informática para codificar la información de la imagen en pixeles, cada uno con una determinada combinación de estos tres colores primarios.',
     },
     {
-      termino: 'Playlist',
+      termino: '<em>Playlist</em>',
       significado:
         'Es una lista de videos online, organizados por temas o categorías. Muy populares en YouTube.',
     },
@@ -234,7 +234,7 @@ export default {
         'Son videos grabados con cámaras especiales, capaces de captar la acción en un ángulo de 360 grados.',
     },
     {
-      termino: '<em>Voz en off</em>',
+      termino: 'Voz en <em>off</em>',
       significado:
         'Narración en la que el locutor no está en la escena. Se suele añadir al editar.',
     },
@@ -281,8 +281,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Jesualdo Morantes',
+          cargo: 'Instructor',
+          centro: 'SENA - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -291,24 +302,31 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yerson Fabián Zárate Saavedra',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jorge Armando Villamizar Moreno',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Edwin Sneider Velandia Suárez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Edgar Mauricio Cortés García',
+          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Luis Fabian Robles Méndez',
+          cargo: 'Desarrollo <em>Front-end</em>',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -321,18 +339,13 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

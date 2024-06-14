@@ -20,10 +20,10 @@
       | Es importante tener en cuenta cómo va a ser la comunicación corporal, o no verbal, dentro de la grabación del video y al ser este un factor a planear, se puede incluir en el #[em storyboard].
       br
       br
-      | El rostro, el movimiento del cuerpo en conjunto con los componentes de la voz, se articulan para que el video transmita emociones; por eso la importancia de poder incluir todo esto en el storyboard, el cual se conoce como el entregable del diseño del video.
+      | El rostro, el movimiento del cuerpo en conjunto con los componentes de la voz, se articulan para que el video transmita emociones; por eso la importancia de poder incluir todo esto en el #[em storyboard], el cual se conoce como el entregable del diseño del video.
       br
       br
-      | Grabar y editar videos se ha convertido en una tarea aparentemente fácil, desde el uso de los teléfonos inteligentes; pero cuando se pretende producir un video con aspecto profesional, es importante atender algunas recomendaciones, las cuales se pueden analizar en el video “Tutorial para grabar videos desde la casa con el celular (Smartphone)” haciendo clic en el enlace.
+      | Grabar y editar videos se ha convertido en una tarea aparentemente fácil, desde el uso de los teléfonos inteligentes; pero cuando se pretende producir un video con aspecto profesional, es importante atender algunas recomendaciones, las cuales se pueden analizar en el video “Tutorial para grabar videos desde la casa con el celular (#[em Smartphone])” haciendo clic en el enlace.
 
     .row.mb-5(data-aos="flip-up")
       .col-md-6
@@ -102,7 +102,7 @@
         p Una de las plataformas que se ha convertido en la herramienta preferida por los creadores de contenido es CapCut - Video Editor que es una aplicación de edición de video, todo en uno, que ayuda a crear videos increíbles. Corte, retroceder y cambiar la velocidad y mucho más, disponible para dispositivos móviles con sistema operativo iOS y Android.
           br
           br
-          | Te invitamos a consultar el siguiente video, donde se presenta una introducción al manejo de la herramienta Capcut.
+          | Te invitamos a consultar el siguiente video, donde se presenta una introducción al manejo de la herramienta CapCut.
       
       .col-lg-2  
         figure.mb-4

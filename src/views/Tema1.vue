@@ -56,7 +56,7 @@
 
             .col-md-10.mb-4.mb-md-0
               h4 Crear bocetos
-              p Crear dibujos preliminares realizados rápidamente y sin tanta complejidad. Se recomienda tener en cuenta colores, textos y demás elementos que harán parte de la imagen a crear. Puede trabajarse en papel o utilizar programas como CANVA, el cual se vio en el apartado de planeación.
+              p Crear dibujos preliminares realizados rápidamente y sin tanta complejidad. Se recomienda tener en cuenta colores, textos y demás elementos que harán parte de la imagen a crear. Puede trabajarse en papel o utilizar programas como Canva, el cual se vio en el apartado de planeación.
 
           .row
             .col-md-10.mb-4.mb-md-0
