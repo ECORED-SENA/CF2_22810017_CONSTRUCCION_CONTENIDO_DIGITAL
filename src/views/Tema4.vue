@@ -85,10 +85,11 @@
 
     p.mb-5(data-aos="zoom-in") Teniendo claro cómo se planea la creación de un audio, su diseño y las diferentes herramientas que se pueden utilizar, te invitamos a consultar el siguiente video, donde se presenta una introducción al manejo de la herramienta Audacity.
 
-    figure.mb-5(data-aos="zoom-in")
-      img(src="@/assets/curso/temas/img-video-temporal.png")
-      //.video
-      //  iframe...
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/eCS2LvZLWe4?si=nwFLHFRMv8_ADlIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center(data-aos="zoom-in")
       .col-lg-10

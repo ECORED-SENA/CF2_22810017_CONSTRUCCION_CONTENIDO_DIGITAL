@@ -22,10 +22,11 @@
           img(src="@/assets/curso/temas/t1-i1.jpg", alt="Escritorio y Pantalla de computador ejecutando un software para edición gráfica")
 
 
-    figure.mb-5(data-aos="fade-up-right")
-      img(src="@/assets/curso/temas/img-video-temporal.png")
-      //.video
-      //  iframe...
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/pdPgT5wutAs?si=FE5Ku9skmckRbUUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5(data-aos="fade-up-left") Teniendo claras algunas reglas que permiten determinar la estética de una pieza gráfica, es importante que estudiemos el flujo de trabajo recomendado para la creación de piezas gráficas.
     

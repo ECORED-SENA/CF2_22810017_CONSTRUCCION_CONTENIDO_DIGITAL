@@ -217,10 +217,11 @@
 
     p.mb-5(data-aos="fade-down") Te invitamos a consultar el siguiente video, donde con la herramienta de diseño Figma y una imagen de pexels.com, te mostraremos cómo crear una imagen para una red social.
 
-    figure.mb-5(data-aos="fade-up-right")
-      img(src="@/assets/curso/temas/img-video-temporal.png")
-      //.video
-      //  iframe...
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/laBtXTkTdo8?si=nTgRZDn8Ol3fxIHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-8
