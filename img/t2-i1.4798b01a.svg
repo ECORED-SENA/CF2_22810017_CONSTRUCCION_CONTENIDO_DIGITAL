@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195">
+  <g id="t2-i1" transform="translate(-390 -512)">
+    <g id="Image_Place_Holder" data-name="Image Place Holder" transform="translate(390 577)">
+      <rect id="Image_Place_Holder-2" data-name="Image Place Holder" width="400" height="130" rx="10" fill="#e2fbe5"/>
+    </g>
+    <g id="figma-1" transform="translate(541 512)">
+      <path id="Path_101222" data-name="Path 101222" d="M24.167,248.333a24.176,24.176,0,0,0,24.167-24.167V200H24.167a24.167,24.167,0,0,0,0,48.333Z" transform="translate(0 -103.333)" fill="#0acf83"/>
+      <path id="Path_101223" data-name="Path 101223" d="M0,124.167A24.175,24.175,0,0,1,24.167,100H48.333v48.333H24.167A24.175,24.175,0,0,1,0,124.167Z" transform="translate(0 -51.667)" fill="#a259ff"/>
+      <path id="Path_101224" data-name="Path 101224" d="M0,24.167A24.175,24.175,0,0,1,24.167,0H48.333V48.333H24.167A24.175,24.175,0,0,1,0,24.167Z" fill="#f24e1e"/>
+      <path id="Path_101225" data-name="Path 101225" d="M100,0h24.167a24.167,24.167,0,0,1,0,48.333H100Z" transform="translate(-51.667)" fill="#ff7262"/>
+      <path id="Path_101226" data-name="Path 101226" d="M148.333,124.167A24.167,24.167,0,1,1,124.167,100,24.175,24.175,0,0,1,148.333,124.167Z" transform="translate(-51.667 -51.667)" fill="#1abcfe"/>
+    </g>
+  </g>
+</svg>
