@@ -22,7 +22,7 @@
 
       .col-lg-4
         figure.mb-4
-          img(src='@/assets/curso/temas/t4-i1.jpg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/t4-i1.jpg', style="width: 450px", alt='Texto que describa la imagen').m-auto
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10

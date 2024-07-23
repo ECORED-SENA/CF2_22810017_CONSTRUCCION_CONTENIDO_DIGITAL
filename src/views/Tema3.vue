@@ -103,12 +103,12 @@
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p <b>Enlace web.</b> www.slidebean.com
-    p.mb-5(data-aos="slide-up") Al igual que con la planeación de una imagen, es importante considerar los siguientes puntos:
+    p.mb-4(data-aos="slide-up") Al igual que con la planeación de una imagen, es importante considerar los siguientes puntos:
     
     .row(data-aos="slide-up")
       .col-lg-3
-        figure.mb-4
-          img(src='@/assets/curso/temas/t3-i7.svg', alt='Texto que describa la imagen')
+        figure.mb-4.mb-lg-0
+          img(src='@/assets/curso/temas/t3-i7.svg', style="width: 400px" alt='Texto que describa la imagen').m-auto
       .col-lg-9
         ul.lista-ul.lista-personalizada-1
           li 

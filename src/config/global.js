@@ -147,7 +147,7 @@ export default {
     {
       termino: '<em>Backup</em>',
       significado:
-        'Copia de seguridad de archivos, que se crea para evitar que se pierda la información gráfica en caso que se pierdan los originales, o se necesite hacer nuevos cambios en el diseño.',
+        'Copia de seguridad de archivos, que se crea para evitar que se pierda la información gráfica en caso de que se pierdan los originales, o se necesite hacer nuevos cambios en el diseño.',
     },
     {
       termino: '<em>Bit Rate</em>',
@@ -204,7 +204,7 @@ export default {
         'El término se refiere a cualquier plataforma que utiliza diferentes medios de expresión para comunicar y dar a conocer información, desde texto e imágenes hasta gifs, videos y audios',
     },
     {
-      termino: 'Pixel',
+      termino: 'Píxel',
       significado:
         'Elemento más pequeño de la imagen de un monitor. El término proviene de dos palabras inglesas: <em>picture</em> y <em>element</em>.',
     },

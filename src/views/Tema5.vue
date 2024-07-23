@@ -17,7 +17,7 @@
       | El video contiene imágenes en movimiento o estáticas y, normalmente, va acompañado de un audio. Por tal motivo, uno de los componentes importantes a construir es un guion, el cual incluye contenido de audio y de imágenes como si fuera una historieta, a lo que se le conoce como #[em storyboard].
       br
       br
-      | Es importante tener en cuenta cómo va a ser la comunicación corporal, o no verbal, dentro de la grabación del video y al ser este un factor a planear, se puede incluir en el #[em storyboard].
+      | Es importante tener en cuenta cómo va a ser la comunicación corporal, o no verbal, dentro de la grabación del video y al ser este un factor a planear se puede incluir en el #[em storyboard].
       br
       br
       | El rostro, el movimiento del cuerpo en conjunto con los componentes de la voz, se articulan para que el video transmita emociones; por eso la importancia de poder incluir todo esto en el #[em storyboard], el cual se conoce como el entregable del diseño del video.
@@ -41,7 +41,7 @@
         .row
           .col-lg-2
             figure.mb-4
-              img(src='@/assets/curso/temas/t5-i2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t5-i2.svg', style="width: 100px" alt='Texto que describa la imagen').m-auto
           .col-lg-10
             p.mb-4  El guion es el punto de partida en la creación de un video, es donde se engancha al público y se expone lo que se logrará al finalizar de verlo. Se debe tener en cuenta:
             ul.lista-ul.lista-personalizada-1
@@ -64,7 +64,7 @@
         .row
           .col-lg-2
             figure.mb-4
-              img(src='@/assets/curso/temas/t5-i3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t5-i3.svg', style="width: 100px" alt='Texto que describa la imagen').m-auto
           .col-lg-10
             p.mb-4  El escenario se puede definir de acuerdo con lo que se quiera proyectar al público objetivo. Existen varias opciones para tener como escenarios; sin embargo, se puede acondicionar una habitación, para que el entorno contenga los conceptos que se quieren transmitir. Lo importante es cuidar los detalles de la luz, el fondo del video y el audio. Con respecto al fondo, se puede hacer uso de cromas, una técnica visual que extrae el color de la imagen, y se reemplaza por otra.
 
@@ -74,7 +74,7 @@
         .row
           .col-lg-2
             figure.mb-4
-              img(src='@/assets/curso/temas/t5-i4.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t5-i4.svg', style="width: 100px" alt='Texto que describa la imagen').m-auto
           .col-lg-10
             p.mb-4  Iniciar la grabación haciendo uso de la cámara que se ha seleccionado. Puede ser un celular o una cámara profesional. Lo importante en este paso, es tener en cuenta el guion que se creó, de manera que todos los movimientos y las palabras usadas tengan un sentido.
       
@@ -84,7 +84,7 @@
         .row
           .col-lg-2
             figure.mb-4
-              img(src='@/assets/curso/temas/t5-i5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t5-i5.svg', style="width: 100px" alt='Texto que describa la imagen').m-auto
           .col-lg-10
             p.mb-4  Se ha llegado a un punto importante dentro del proceso de creación: “la edición”. Aquí se unen muchos recursos diferentes a los captados en la grabación del video, como por ejemplo: imágenes, audios, animaciones, títulos, textos y más.
       
@@ -93,7 +93,7 @@
         .row
           .col-lg-2
             figure.mb-4
-              img(src='@/assets/curso/temas/t5-i6.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t5-i6.svg', style="width: 100px" alt='Texto que describa la imagen').m-auto
           .col-lg-10
             p.mb-4  En este paso se define en qué dispositivo se va a reproducir el video, qué formato necesita y en qué plataforma se va a difundir. Con respecto a los formatos, se encuentran los siguientes: AVI, WMV, MOV, FLV, RM, RMVB, MP4, MKV, 3GP.
 
@@ -106,7 +106,7 @@
       
       .col-lg-2  
         figure.mb-4
-          img(src='@/assets/curso/temas/t5-i7.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/t5-i7.svg', style="width: 180px" alt='Texto que describa la imagen').m-auto
     
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     

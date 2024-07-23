@@ -7,7 +7,7 @@
         span 2
       h1 Herramientas para la construcción de una imagen
     
-    p.mb-5 Las herramientas para la creación de imágenes, brindan una gama alta de posibilidades de edición en cuanto a filtros, fuentes de texto, formas, entre otras. Existen múltiples herramientas en el mercado, algunas gratuitas y otras pagas y, dependiendo del sistema operativo. Se pueden encontrar algunas, como por ejemplo:
+    p.mb-5 Las herramientas para la creación de imágenes brindan una gama alta de posibilidades de edición en cuanto a filtros, fuentes de texto, formas, entre otras. Existen múltiples herramientas en el mercado, algunas gratuitas y otras pagas y, dependiendo del sistema operativo. Se pueden encontrar algunas, como por ejemplo:
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .d-none.d-lg-block.col-lg
